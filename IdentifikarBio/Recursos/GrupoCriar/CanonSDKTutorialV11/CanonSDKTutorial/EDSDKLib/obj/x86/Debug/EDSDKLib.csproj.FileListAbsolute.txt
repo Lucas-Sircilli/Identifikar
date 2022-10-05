@@ -1,0 +1,6 @@
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\EDSDKLib\bin\Debug\EDSDKLib.dll
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\EDSDKLib\bin\Debug\EDSDKLib.pdb
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.csprojAssemblyReference.cache
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.csproj.CoreCompileInputs.cache
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.dll
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.pdb

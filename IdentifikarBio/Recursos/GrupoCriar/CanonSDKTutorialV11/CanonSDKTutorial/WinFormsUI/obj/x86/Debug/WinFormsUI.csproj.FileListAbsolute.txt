@@ -1,0 +1,12 @@
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\WinFormsUI\bin\Debug\WinFormsUI.exe
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\WinFormsUI\bin\Debug\WinFormsUI.pdb
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\WinFormsUI\bin\Debug\EDSDKLib.dll
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\WinFormsUI\bin\Debug\EDSDKLib.pdb
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\WinFormsUI\obj\x86\Debug\WinFormsUI.csprojAssemblyReference.cache
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\WinFormsUI\obj\x86\Debug\WinFormsUI.MainForm.resources
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\WinFormsUI\obj\x86\Debug\WinFormsUI.Properties.Resources.resources
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\WinFormsUI\obj\x86\Debug\WinFormsUI.csproj.GenerateResource.cache
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\WinFormsUI\obj\x86\Debug\WinFormsUI.csproj.CoreCompileInputs.cache
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\WinFormsUI\obj\x86\Debug\WinFormsUI.csproj.CopyComplete
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\WinFormsUI\obj\x86\Debug\WinFormsUI.exe
+D:\OneDriver\OneDrive\GVDSolucoes\GrupoCriar\CanonSDKTutorialV11\CanonSDKTutorial\WinFormsUI\obj\x86\Debug\WinFormsUI.pdb
